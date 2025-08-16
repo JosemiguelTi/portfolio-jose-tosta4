@@ -1,7 +1,7 @@
 # <span style="color: #1E90FF">Jose Miguel Tosta Inestroza - Curriculum Vitae</span>
 
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=JMT+Portfolio" alt="Foto de Jose Miguel Tosta" style="border-radius: 50%; border: 5px solid #1E90FF;">
+  <img src="https://github.com/josetosta/portfolio-jose-tosta/blob/main/foto.jpg.jpg" alt="Foto de Jose Miguel Tosta" style="border-radius: 50%; border: 5px solid #1E90FF;">
   <h3 style="color: #4682B4;">Ubicación: Francisco Morazán, Valle de Ángeles, La Tres Rosas – Honduras</h3>
   <p style="color: #87CEEB;">
     📧 <a href="mailto:josemiguelti@hotmail.com" style="color: #87CEEB;">josemiguelti@hotmail.com</a> | 📱 +504 8766 6436  
