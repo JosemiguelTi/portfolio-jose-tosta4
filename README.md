@@ -21,8 +21,8 @@
 
 ## <span style="color: #1E90FF">Experiencia Laboral</span>
 <div style="background-color: #E6F0FA; padding: 10px; border-left: 5px solid #1E90FF;">
-  ### Legal Assistant – Alonso & Alonso Law Firm / Freelancer / Upwork
-  <p style="color: #4682B4;">**Ubicación:** Tegucigalpa, Honduras | **Fechas:** Noviembre 2024 – Actualidad</p>
+   Legal Assistant – Alonso & Alonso Law Firm / Freelancer / Upwork
+  <p style="color: #4682B4;">**Ubicación:** Tegucigalpa, Honduras | Fecha Noviembre 2024 – Actualidad</p>
   - Elaboración y envío de solicitudes FOIA a instituciones federales de inmigración en EE. UU.  
   - Actualización y gestión de notas en Salesforce (Litify).  
   - Revisión y aprobación de documentos FOIA elaborados por el equipo, asegurando calidad y exactitud.  
@@ -32,7 +32,7 @@
 </div>
 
 <div style="background-color: #E6F0FA; padding: 10px; border-left: 5px solid #1E90FF;">
-  ### Virtual Assistant – Dr. Ali Najafi Neurosurgeon & Mendez and Sanchez Law Firm / IMPACTBPO
+   Virtual Assistant – Dr. Ali Najafi Neurosurgeon & Mendez and Sanchez Law Firm / IMPACTBPO
   <p style="color: #4682B4;">**Ubicación:** Tegucigalpa, Honduras | **Fechas:** Noviembre 2023 – Noviembre 2024</p>
   - Contacto con clientes para completar información en intakes.  
   - Coordinación de citas médicas (30–50 pacientes diarios).  
